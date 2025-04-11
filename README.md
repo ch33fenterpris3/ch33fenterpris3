@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ty.
-- 👀 I’m interested in ... Kotlin, Python, HTML, PHP, Golang, Powershell and anything scripting.
+- 👀 I’m interested in ... Kotlin, Python, HTML, PHP, Golang, Bash and anything scripting.
 - 🌱 I’m currently learning ... everything IT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
